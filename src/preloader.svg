@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" preserveAspectRatio="xMidYMid" viewBox="0 0 100 100">
+    <g transform="translate(50,50)">
+        <circle cx="0" cy="0" r="8.333333333333334" fill="none" stroke="#00fff5" stroke-dasharray="26.179938779914945 26.179938779914945" stroke-width="2" transform="rotate(127.879)">
+            <animateTransform attributeName="transform" begin="0" calcMode="spline" dur="1s" keySplines="0.2 0 0.8 1" repeatCount="indefinite" times="0;1" type="rotate" values="0 0 0;360 0 0"/>
+        </circle>
+        <circle cx="0" cy="0" r="16.666666666666668" fill="none" stroke="#aafbfb" stroke-dasharray="52.35987755982989 52.35987755982989" stroke-width="2" transform="rotate(217.362)">
+            <animateTransform attributeName="transform" begin="-0.2" calcMode="spline" dur="1s" keySplines="0.2 0 0.8 1" repeatCount="indefinite" times="0;1" type="rotate" values="0 0 0;360 0 0"/>
+        </circle>
+        <circle cx="0" cy="0" r="25" fill="none" stroke="#4cd4cc" stroke-dasharray="78.53981633974483 78.53981633974483" stroke-width="2" transform="rotate(301.77)">
+            <animateTransform attributeName="transform" begin="-0.4" calcMode="spline" dur="1s" keySplines="0.2 0 0.8 1" repeatCount="indefinite" times="0;1" type="rotate" values="0 0 0;360 0 0"/>
+        </circle>
+        <circle cx="0" cy="0" r="33.333333333333336" fill="none" stroke="#049bba" stroke-dasharray="104.71975511965978 104.71975511965978" stroke-width="2" transform="rotate(359.251)">
+            <animateTransform attributeName="transform" begin="-0.6" calcMode="spline" dur="1s" keySplines="0.2 0 0.8 1" repeatCount="indefinite" times="0;1" type="rotate" values="0 0 0;360 0 0"/>
+        </circle>
+        <circle cx="0" cy="0" r="41.666666666666664" fill="none" stroke="#10808b" stroke-dasharray="130.89969389957471 130.89969389957471" stroke-width="2" transform="rotate(45.6745)">
+            <animateTransform attributeName="transform" begin="-0.8" calcMode="spline" dur="1s" keySplines="0.2 0 0.8 1" repeatCount="indefinite" times="0;1" type="rotate" values="0 0 0;360 0 0"/>
+        </circle>
+    </g>
+</svg>
